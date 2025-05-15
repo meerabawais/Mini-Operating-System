@@ -1,1 +1,4 @@
 # Mini-Operating-System
+# A project created in c++
+# This project is a pair project which is a basic simulation of an operating system built from scratch using C++. It manages hardware resources like RAM, hard drive, and CPU cores, and allows users to perform multiple tasks such as using a notepad, calculator, viewing time, copying/deleting files, and even playing mini-games. It includes key OS features like multitasking, process scheduling, user/kernel modes, and interrupt handling — giving a real feel of how an OS works behind the scenes.
+# you can check out the code from the pdf file that I've submitted along with this and you can look up this project in working condition at my linkdln account: https://www.linkedin.com/posts/meerab-awais-914b82361_minios-operatingsystemsimulator-oslabproject-activity-7328863909526847488-Q3Kl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoNbqABAtmRPeRqYkaWUwERkcjmXfwbjTI
